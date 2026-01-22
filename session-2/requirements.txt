@@ -1,0 +1,10 @@
+Flask==2.3.3
+requests==2.31.0
+debugpy
+python-dotenv
+google-genai
+google-cloud-storage
+sqlalchemy
+pg8000
+google-cloud-alloydb-connector[pg8000]
+gunicorn
